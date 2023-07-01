@@ -1,16 +1,9 @@
-# despesas
+# Despesas
 
-A new Flutter project.
+Projeto desenvolvido para aprendizagem de Flutter
 
-## Getting Started
+## Projeto Despesas
 
-This project is a starting point for a Flutter application.
+Este projeto foi montado de acordo com um curso de desenvolvimento mobile em flutter,
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Controlando as despesas mensais.
